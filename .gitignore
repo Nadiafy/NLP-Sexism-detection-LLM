@@ -1,0 +1,35 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+env/
+venv/
+.venv/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore data files if needed (uncomment to activate)
+# data/
+# *.csv
+# *.tsv
+
+# Ignore model checkpoints or outputs
+*.ckpt
+*.pt
+*.h5
+*.pkl
+*.joblib
+
+# Ignore log files and temp files
+*.log
+*.tmp
+*.bak
