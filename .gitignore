@@ -22,3 +22,6 @@ glove/
 
 # Ignore Jupyter Notebook files
 .vscode/
+
+phi-2-sexism-detection/
+llama-3.1-sexism-detection/
